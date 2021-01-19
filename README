@@ -1,0 +1,25 @@
+NAME: Khoa Quach
+EMAIL: khoaquachschool@gmail.com
+ID: 105123806
+
+BeagleBone S/N: BBGW20080457
+MAC: 2CF7F106C5C8
+
+Content:
+my_beaglebone.jpg ... selfie of me holding my beaglebone
+
+connected.png ...screenshot of a USB terminal command session connected to my
+				system, showing that I  gave it a name and configured network access.
+copy.png ...screenshot showing successful copying of a hello world program from my laptop/desktop to your Beaglebone. showing PSCP commands
+
+build_run.png ...screenshot of a WIFI SSH session in which Iu build and ran a trivial (hello world) program.
+
+git.png ..screenshot a WIFI SSH session in which I installed git and cloned a repository.
+
+lab4a-105123806.tar.gz .. tar file of the screenshots above
+
+Makefile: 
+clean ... deletes files created by the Makefile
+dist ... builds a distribution tarball of files :
+Makefile README connected.png build_run.png git.png copy.png lab4a-105123806.tar.gz
+
